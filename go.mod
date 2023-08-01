@@ -1,4 +1,4 @@
-module github.com/msalopek/merkle-patrica-trie
+module github.com/msalopek/merkle-patricia-trie
 
 go 1.18
 
